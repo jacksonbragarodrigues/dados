@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "tipos-contratacao": [
     {
-      "id": 1,
-      "title": "hello"
+      "chave": "GERAL",
+      "label": "Geral"
     }
   ],
   "profile": {
