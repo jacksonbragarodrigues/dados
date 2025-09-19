@@ -1,9 +1,35 @@
 {
   "tipos-contratacao": [
-    {
-      "chave": "GERAL",
-      "label": "Geral"
-    }
+  {
+    "id": 1,
+    "nome": "Obras e serviços de engenharia",
+    "codigo": "ENGENHARIA"
+  },
+  {
+    "id": 2,
+    "nome": "Soluções de Tecnologia de Informação e Comunicação",
+    "codigo": "INFORMATICA"
+  },
+  {
+    "id": 3,
+    "nome": "Ações de Desenvolvimento, Capacitação e Treinamento",
+    "codigo": "TREINAMENTO"
+  },
+  {
+    "id": 4,
+    "nome": "Revistas, Periódicos e Livros",
+    "codigo": "BIBLIOTECA"
+  },
+  {
+    "id": 5,
+    "nome": "Demais objetos não caracterizados nas outras opções",
+    "codigo": "GERAL"
+  },
+  {
+    "id": 7,
+    "nome": "Hospitais e Planos de Saúde",
+    "codigo": "PROSER"
+  }
   ],
   "profile": {
     "name": "typicode"
