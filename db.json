@@ -31,7 +31,25 @@
     "codigo": "PROSER"
   }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+ unidades: [
+    {
+      "id": 1837,
+      "descricao": "Seção de Desenvolvimento do Acervo",
+      "sigla": "SEDAC"
+    }
+  ],
+ servidores: [
+    {
+      "matricula": "S075757",
+      "nome": "Tiago Silva de Carvalho",
+      "siglaUnidade": "SEDAC",
+      "login": "tscarval"
+    },
+    {
+      "matricula": "S039777",
+      "nome": "Eduardo de Oliveira Paiva",
+      "siglaUnidade": "SEDAC",
+      "login": "epaiva"
+    }
+  ]
 }
