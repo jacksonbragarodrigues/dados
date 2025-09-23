@@ -31,14 +31,14 @@
     "codigo": "PROSER"
   }
   ],
- unidades: [
+ "unidades": [
     {
       "id": 1837,
       "descricao": "Seção de Desenvolvimento do Acervo",
       "sigla": "SEDAC"
     }
   ],
- servidores: [
+ "servidores": [
     {
       "matricula": "S075757",
       "nome": "Tiago Silva de Carvalho",
